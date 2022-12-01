@@ -3,3 +3,7 @@
 # :christmas_tree: Advent of Code 2022 :christmas_tree:
 
 <img src="advent2022.png" style="width: 100%;"/>
+
+| Day | Stars |
+| ------ | ------ |
+| [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | :star: :star: |
